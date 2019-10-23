@@ -1,0 +1,418 @@
+
+
+
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+  "num_results": 1336,
+  "results": [
+    {
+      "url": "https://www.nytimes.com/interactive/2019/10/16/us/politics/trump-letter-turkey.html",
+      "adx_keywords": "Trump, Donald J;Turkey;Erdogan, Recep Tayyip",
+      "column": "",
+      "section": "U.S.",
+      "byline": "By THE NEW YORK TIMES",
+      "type": "Interactive",
+      "title": "Read Trump’s Letter to President Erdogan of Turkey",
+      "abstract": "Trump said he’d written the “very powerful” letter to warn the Turkish leader.",
+      "published_date": "2019-10-16",
+      "source": "The New York Times",
+      "id": 100000006772752,
+      "asset_id": 100000006772752,
+      "views": 1,
+      "des_facet": "",
+      "org_facet": "",
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "ERDOGAN, RECEP TAYYIP"
+      ],
+      "geo_facet": [
+        "TURKEY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": null,
+          "copyright": null,
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/us/white-house-trump-letter-promo-1571261887115/white-house-trump-letter-promo-1571261887115-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/us/white-house-trump-letter-promo-1571261887115/white-house-trump-letter-promo-1571261887115-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/us/white-house-trump-letter-promo-1571261887115/white-house-trump-letter-promo-1571261887115-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://interactive/f51c9656-2936-5ee5-b010-30ff48792578"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/10/16/us/politics/democratic-debate.html",
+      "adx_keywords": "Presidential Election of 2020;Debates (Political);Primaries and Caucuses;Biden, Joseph R Jr;Buttigieg, Pete (1982- );Harris, Kamala D;Warren, Elizabeth",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By SHANE GOLDMACHER and REID J. EPSTEIN",
+      "type": "Article",
+      "title": "6 Takeaways From the October Democratic Debate",
+      "abstract": "Elizabeth Warren was called out by rivals for a change, Joe Biden failed to stand out and Bernie Sanders calmed concerns about his health. Pete Buttigieg had his biggest night yet.",
+      "published_date": "2019-10-16",
+      "source": "The New York Times",
+      "id": 100000006771168,
+      "asset_id": 100000006771168,
+      "views": 2,
+      "des_facet": [
+        "PRESIDENTIAL ELECTION OF 2020",
+        "DEBATES (POLITICAL)"
+      ],
+      "org_facet": [
+        "PRIMARIES AND CAUCUSES"
+      ],
+      "per_facet": [
+        "BIDEN, JOSEPH R JR",
+        "BUTTIGIEG, PETE (1982- )",
+        "HARRIS, KAMALA D",
+        "WARREN, ELIZABETH"
+      ],
+      "geo_facet": "",
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Bernie Sanders and Joseph R. Biden Jr. after the debate on Tuesday.",
+          "copyright": "Tamir Kalifa for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/11/15/us/politics/15debate-takeaways-promo/15debate-takeaways-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/11/15/us/politics/15debate-takeaways-promo/15debate-takeaways-promo-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/11/15/us/politics/15debate-takeaways-promo/15debate-takeaways-promo-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/9d66a804-e4fb-5907-927d-ef806e616e7c"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/10/16/world/europe/donald-trump-harry-dunn-anne-sacoolas.html",
+      "adx_keywords": "Sacoolas, Anne;Traffic Accidents and Safety;Deaths (Fatalities);Dunn, Harry (d 2019);Trump, Donald J;Diplomatic Immunity;Northamptonshire (England);Washington (DC);United States International Relations",
+      "column": null,
+      "section": "World",
+      "byline": "By KATIE ROGERS and ILIANA MAGRA",
+      "type": "Article",
+      "title": "Trump Stuns Grieving Britons: Meet the Suspect in Your Son’s Death",
+      "abstract": "At the White House, the parents of Harry Dunn were told that the woman they want to hold accountable for his death in a car crash was in an adjoining room.",
+      "published_date": "2019-10-16",
+      "source": "The New York Times",
+      "id": 100000006771386,
+      "asset_id": 100000006771386,
+      "views": 3,
+      "des_facet": [
+        "TRAFFIC ACCIDENTS AND SAFETY",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "DEATHS (FATALITIES)",
+        "DIPLOMATIC IMMUNITY"
+      ],
+      "per_facet": [
+        "SACOOLAS, ANNE",
+        "DUNN, HARRY (D 2019)",
+        "TRUMP, DONALD J"
+      ],
+      "geo_facet": [
+        "NORTHAMPTONSHIRE (ENGLAND)",
+        "WASHINGTON (DC)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charlotte Charles, the mother of Harry Dunn, with her husband, Bruce Charles, center, and Harry’s father, Tim Dunn, right, in Washington on Tuesday.",
+          "copyright": "Manuel Balce Ceneta/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16uk-accident/16uk-accident-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16uk-accident/16uk-accident-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16uk-accident/16uk-accident-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/47e422b5-b908-55c5-9264-249a3d3d2d66"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/10/17/us/politics/elijah-cummings-dead.html",
+      "adx_keywords": "United States Politics and Government;Deaths (Obituaries);Cummings, Elijah E;Baltimore (Md);Congressional Black Caucus;House of Representatives;Democratic Party",
+      "column": null,
+      "section": "U.S.",
+      "byline": "By SHERYL GAY STOLBERG and DAVID STOUT",
+      "type": "Article",
+      "title": "Elijah E. Cummings, Powerful Democrat Who Investigated Trump, Dies at 68",
+      "abstract": "A son of sharecroppers, he fought tirelessly for his hometown, Baltimore, and became a key figure in the impeachment investigation of President Trump.",
+      "published_date": "2019-10-17",
+      "source": "The New York Times",
+      "id": 100000006732782,
+      "asset_id": 100000006732782,
+      "views": 4,
+      "des_facet": [
+        "UNITED STATES POLITICS AND GOVERNMENT",
+        "DEATHS (OBITUARIES)"
+      ],
+      "org_facet": [
+        "CONGRESSIONAL BLACK CAUCUS",
+        "HOUSE OF REPRESENTATIVES",
+        "DEMOCRATIC PARTY"
+      ],
+      "per_facet": [
+        "CUMMINGS, ELIJAH E"
+      ],
+      "geo_facet": [
+        "BALTIMORE (MD)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative Elijah E. Cummings in May.",
+          "copyright": "Justin T. Gellerson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/09/23/obituaries/00Cummings1-sub/00Cummings1-sub-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/09/23/obituaries/00Cummings1-sub/00Cummings1-sub-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/09/23/obituaries/00Cummings1-sub/00Cummings1-sub-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/70aaf67f-eb6a-57f2-946b-03e0dd0d785c"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/10/16/world/middleeast/trump-erdogan-turkey-syria-kurds.html",
+      "adx_keywords": "Trump, Donald J;Syria;Turkey;Kurds;United States Defense and Military Forces;Defense and Military Forces;United States International Relations;Pompeo, Mike;Pence, Mike;Erdogan, Recep Tayyip;Syrian Democratic Forces;Islamic State in Iraq and Syria (ISIS)",
+      "column": null,
+      "section": "World",
+      "byline": "By PETER BAKER and CATIE EDMONDSON",
+      "type": "Article",
+      "title": "Trump Lashes Out on Syria as Republicans Rebuke Him in House Vote",
+      "abstract": "President Trump again defends his decision to withdraw American troops, an order that many, including Republicans, have interpreted as acquiescing to Turkey’s incursion against a United States ally.",
+      "published_date": "2019-10-16",
+      "source": "The New York Times",
+      "id": 100000006771909,
+      "asset_id": 100000006771909,
+      "views": 5,
+      "des_facet": [
+        "KURDS",
+        "UNITED STATES DEFENSE AND MILITARY FORCES",
+        "DEFENSE AND MILITARY FORCES",
+        "UNITED STATES INTERNATIONAL RELATIONS"
+      ],
+      "org_facet": [
+        "SYRIAN DEMOCRATIC FORCES",
+        "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"
+      ],
+      "per_facet": [
+        "TRUMP, DONALD J",
+        "POMPEO, MIKE",
+        "PENCE, MIKE",
+        "ERDOGAN, RECEP TAYYIP"
+      ],
+      "geo_facet": [
+        "SYRIA",
+        "TURKEY"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soldiers with the Turkey-backed Free Syrian Army crossing the border into Turkey from Syria on Wednesday.",
+          "copyright": "Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/us/politics/16dc-syria-vid/16dc-syria-vid-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/us/politics/16dc-syria-vid/merlin_162816024_71d1a87b-e885-4ee4-ae91-1cea6ec48415-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/us/politics/16dc-syria-vid/merlin_162816024_71d1a87b-e885-4ee4-ae91-1cea6ec48415-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/43735d92-afdd-5e3a-bb5c-fe33578d8f0b"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/10/16/world/asia/kim-jong-un-horse.html",
+      "adx_keywords": "Horses;Kim Jong-un;Mount Paektu (North Korea)",
+      "column": null,
+      "section": "World",
+      "byline": "By DANIEL VICTOR",
+      "type": "Article",
+      "title": "These Sure Are Photos of Kim Jong-un on a Horse",
+      "abstract": "North Korea’s state news agency said the dictator’s eyes were “full of noble glitters” during his Putin-esque photo shoot.",
+      "published_date": "2019-10-16",
+      "source": "The New York Times",
+      "id": 100000006771119,
+      "asset_id": 100000006771119,
+      "views": 6,
+      "des_facet": [
+        "HORSES"
+      ],
+      "org_facet": "",
+      "per_facet": [
+        "KIM JONG-UN"
+      ],
+      "geo_facet": [
+        "MOUNT PAEKTU (NORTH KOREA)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kim Jong-un, the North Korean dictator, on a horse in a photo released Wednesday by the country’s official news agency. ",
+          "copyright": "Korean Central News Agency",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16xp-kim-horse1/16xp-kim-horse1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16xp-kim-horse1/16xp-kim-horse1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16xp-kim-horse1/16xp-kim-horse1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/e4435c42-35a8-5c41-ac7c-9b712949908a"
+    },
+    {
+      "url": "https://www.nytimes.com/2019/10/16/world/europe/dutch-family-farmhouse-doomsday.html",
+      "adx_keywords": "Doomsday;Netherlands",
+      "column": null,
+      "section": "World",
+      "byline": "By MARC SANTORA",
+      "type": "Article",
+      "title": "Family Spent 9 Years in a Secluded Dutch Farmhouse ‘Waiting for the End of Days’",
+      "abstract": "The case came to the attention of the local police after a young man left the farm, found his way to a local pub, and told his story.",
+      "published_date": "2019-10-16",
+      "source": "The New York Times",
+      "id": 100000006771501,
+      "asset_id": 100000006771501,
+      "views": 7,
+      "des_facet": [
+        "DOOMSDAY"
+      ],
+      "org_facet": "",
+      "per_facet": "",
+      "geo_facet": [
+        "NETHERLANDS"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An aerial picture of the farmhouse near the village of Ruinerwold, Netherlands, where a family took refuge waiting for the world’s end.",
+          "copyright": "Wilbert Bijzitter/ANP, via Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16dutch-farm/16dutch-farm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16dutch-farm/16dutch-farm-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2019/10/16/world/16dutch-farm/16dutch-farm-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "uri": "nyt://article/fdc6231b-1c77-5186-a2a9-36faa6acabdd"
+    }
+  ]
+}
